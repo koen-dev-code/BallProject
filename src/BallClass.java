@@ -1,7 +1,7 @@
 
 import java.awt.*;
 import javax.swing.*;
-public class BallClass
+public classBallClass
 {
     private int x,y,size,xSpeed, ySpeed;
     public BallClass(int x, int y,int size, int xSpeed, int ySpeed)
