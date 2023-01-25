@@ -15,8 +15,8 @@ public class BallClass
 
     public BallClass()
     {
-        x =(int)((Math.random()+1)*255);
-        y=(int)((Math.random()+1)*255);
+        x =(int)((Math.random()+1)*200)-size;
+        y=(int)((Math.random()+1)*200)-size;
         size = (int)((Math.random()+1)*20);
         xSpeed=(int)((Math.random()+1)*5);
         ySpeed=(int)((Math.random()+1)*5);
