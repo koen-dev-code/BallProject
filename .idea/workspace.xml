@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3efd0055-6d05-4b65-83f5-ff0b6e2f0921" name="Changes" comment="ballProject" />
+    <list default="true" id="3efd0055-6d05-4b65-83f5-ff0b6e2f0921" name="Changes" comment="h" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674574957702</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ballProject">
+      <created>1674575035344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674575035344</updated>
+    </task>
+    <task id="LOCAL-00005" summary="h">
+      <created>1674575346731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674575346732</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ballProject.java" />
     <MESSAGE value="ballProject" />
-    <option name="LAST_COMMIT_MESSAGE" value="ballProject" />
+    <MESSAGE value="h" />
+    <option name="LAST_COMMIT_MESSAGE" value="h" />
   </component>
 </project>
